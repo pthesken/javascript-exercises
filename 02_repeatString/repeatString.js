@@ -14,3 +14,13 @@ const repeatString = function (str, times) {
 
 // Do not edit below this line
 module.exports = repeatString;
+
+//we did this version in class with Teddy
+/* function repeatString(str, times) {
+  let endResult = "";
+  for (let x = 1; count < times; count++) {
+    endResult = endResult + str;
+  }
+  return endResult
+}
+repeatString("Teddy", 3); */
